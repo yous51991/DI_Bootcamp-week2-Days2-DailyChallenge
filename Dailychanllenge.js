@@ -1,4 +1,10 @@
+/******************************************************
+Correcteur: Yannick GOUGIUA
 
+Vous avez soumis un exercice du jour 2 a la place du jour 1
+
+Merci de corriger et resoumettre
+*******************************************************/
   
 let sentence= "The movie is not that bad, I like it" 
 let wordNot = sentence.indexOf("not") 
